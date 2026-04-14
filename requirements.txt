@@ -1,0 +1,18 @@
+# Django Core
+Django==4.2.11
+djangorestframework==3.14.0
+
+# Database
+mysqlclient==2.2.4
+
+# Authentication
+djangorestframework-simplejwt==5.3.1
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# CORS Headers
+django-cors-headers==4.3.1
+
+# Utilities
+Pillow==10.2.0
